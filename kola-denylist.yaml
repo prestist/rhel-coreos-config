@@ -54,3 +54,8 @@
     - rhel-9.6
     - rhel-9.7
     - rhel-9.8
+
+- pattern: coreos.unique.boot.failure
+  tracker: https://github.com/openshift/os/issues/1873
+  osversion:
+    - rhel-9.6
